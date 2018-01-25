@@ -1,6 +1,6 @@
 {
   "name": "lohnsteuer",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "calculates german wage tax (Lohnsteuer)",
   "main": "index.js",
   "keywords": "german wage tax lohnsteuer pap",
